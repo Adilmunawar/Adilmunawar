@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https:adilmunawar.rf.gd](https:adilmunawar.rf.gd)
+- 👨‍💻 All of my projects are available at [https:adilmunawar.rf.gd](https://adilmunawar.rf.gd)
 
 - 📫 How to reach me **adilfromavengers@gmail.com**
 

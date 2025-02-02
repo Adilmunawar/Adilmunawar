@@ -12,12 +12,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdilMunawar&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilMunawar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements  
 
-[![GitHub Achievements](https://github-profile-achievements.vercel.app/api?username=Schweinepriester)](https://github.com/Schweinepriester)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Schweinepriester&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
+![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
+![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
+![Arctic Code Vault](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-default.png)
+![Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

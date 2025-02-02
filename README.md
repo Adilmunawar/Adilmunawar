@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdilMunawar&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilMunawar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Achievements
+
+[![GitHub Achievements](https://github-profile-achievements.vercel.app/api?username=Schweinepriester)](https://github.com/Schweinepriester)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Schweinepriester&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
 

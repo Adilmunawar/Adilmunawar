@@ -14,12 +14,7 @@
 
 ## 🏆 GitHub Achievements  
 
-![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
-![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
-![Arctic Code Vault](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-default.png)
-![Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png)
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/master-of-code-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/open-source-maintainer-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/community-helper-default.png" width="50" height="50">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

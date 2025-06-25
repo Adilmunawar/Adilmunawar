@@ -12,6 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdilMunawar&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilMunawar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### <p align="center">Contributions</p>
+<picture align="center">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adilmunawar/Adilmunawar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adilmunawar/Adilmunawar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adilmunawar/Adilmunawar/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🏆 GitHub Achievements  
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50" height="50"> <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="50" height="50">

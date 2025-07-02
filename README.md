@@ -38,6 +38,16 @@ Baby Developer 🔥<br>Contributing to open-source & leveling up my GitHub game.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AdilMunawar&icon=7&color=1)](https://visitcount.itsvg.in)
+<h3 align="left">⚙️GitHub Analytics . . .</h3>
+<div align="center">
+<a href="https://github.com/Adilmunawar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adilmunawar&theme=gotham">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adilmunawar&theme=nord_bright">
+    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adilmunawar&theme=nord_bright" alt="Profile Details">
+  </picture>
+</a>
+</div>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adilfromavj) 

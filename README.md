@@ -21,6 +21,7 @@ Always open to collaboration and new opportunities — let’s create something 
 </a>
 <br/>
 <a href="https://adilmunawar.vercel.app">
+
   <img src="https://skillicons.dev/icons?i=azure,googlecloud,docker,aws,sass,devto,htmx,fastapi" />
 </a>
 

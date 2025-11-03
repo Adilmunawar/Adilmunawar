@@ -1,15 +1,6 @@
 <div align="center">
-
-# 💫 About Me
 Aspiring developer with a passion for open-source and building impactful projects.  
-Always open to collaboration and new opportunities — let’s create something great together! 🚀
-
-## 🌐 Connect with Me
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/AdilMunawar)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AdilMunawar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/adilmunawar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/adilfromavj)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/adilfromavj)
+Always open to collaboration and new opportunities — let’s create something great together! 
 
 ## 🛠️ Technical Skills
 <a href="https://adilmunawar.vercel.app">

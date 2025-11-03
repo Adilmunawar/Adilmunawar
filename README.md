@@ -21,9 +21,6 @@ Always open to collaboration and new opportunities — let’s create something 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilMunawar&theme=nightowl&hide_border=false" /></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilMunawar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-## ✍️ Inspirational Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
 ## 🔝 Top Contributed Repositories
 <img src="https://github-contributor-stats.vercel.app/api?username=AdilMunawar&limit=5&theme=nightowl&combine_all_yearly_contributions=true" />
 

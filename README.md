@@ -22,8 +22,6 @@ Always open to collaboration and new opportunities — let’s create something 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilMunawar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 [![](https://visitcount.itsvg.in/api?id=AdilMunawar&icon=7&color=1)](https://visitcount.itsvg.in)
-
-## ⚙️ GitHub Analytics
 <a href="https://github.com/Adilmunawar">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adilmunawar&theme=gotham">

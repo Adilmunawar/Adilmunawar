@@ -21,9 +21,6 @@ Always open to collaboration and new opportunities — let’s create something 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilMunawar&theme=nightowl&hide_border=false" /></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilMunawar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-## 🔝 Top Contributed Repositories
-<img src="https://github-contributor-stats.vercel.app/api?username=AdilMunawar&limit=5&theme=nightowl&combine_all_yearly_contributions=true" />
-
 [![](https://visitcount.itsvg.in/api?id=AdilMunawar&icon=7&color=1)](https://visitcount.itsvg.in)
 
 ## ⚙️ GitHub Analytics
@@ -33,7 +30,3 @@ Always open to collaboration and new opportunities — let’s create something 
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adilmunawar&theme=nord_bright">
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adilmunawar&theme=nord_bright" alt="Profile Details">
 </a>
-
-## ☕ Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adilfromavj)
-</div>

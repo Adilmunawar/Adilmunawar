@@ -23,3 +23,12 @@ Always open to collaboration and new opportunities, let’s create something gre
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adilmunawar&theme=nord_bright">
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adilmunawar&theme=nord_bright" alt="Profile Details">
 </a>
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adilmunawar&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adilmunawar&bg_color=ffffff&color=5bcdec&line=5bcdec&point=000000&hide_border=true&area=true">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adilmunawar&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true" alt="Adilmunawar's Contribution Graph" />
+    </picture>
+  </a>
+</div>

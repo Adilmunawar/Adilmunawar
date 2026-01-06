@@ -1,6 +1,6 @@
 <div align="center">
 Aspiring developer with a passion for open-source and building impactful projects.  
-Always open to collaboration and new opportunities — let’s create something great together! 
+Always open to collaboration and new opportunities, let’s create something great together! 
 
 ## 🛠️ Technical Skills
 <a href="https://adilmunawar.vercel.app">

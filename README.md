@@ -2,7 +2,7 @@
 Aspiring developer with a passion for open-source and building impactful projects.  
 Always open to collaboration and new opportunities, let’s create something great together! 
 
-## 🛠️ Technical Skills
+##  Technical Skills
 <a href="https://adilmunawar.vercel.app">
   <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,stackoverflow,netlify,obsidian,firebase,supabase" />
 </a>

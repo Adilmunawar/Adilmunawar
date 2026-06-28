@@ -86,26 +86,17 @@ I enjoy turning complex ideas into structured digital products with clean user e
 </a>
 
 </div>
-## Connect With Me
-
 <div align="center">
-
 <a href="https://adilmunawar.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-adilmunawar.vercel.app-0f172a?style=for-the-badge&logo=vercel" />
 </a>
-
 <a href="https://github.com/Adilmunawar">
   <img src="https://img.shields.io/badge/GitHub-AdilMunawar-181717?style=for-the-badge&logo=github" />
 </a>
-
 <a href="https://pk.linkedin.com/in/adilmunawar">
   <img src="https://img.shields.io/badge/LinkedIn-Adil%20Munawar-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-
 </div>
-
-
-
 <div align="center">
 
 ### Even dead, my heart still beats on GitHub graphs.

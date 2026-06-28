@@ -4,10 +4,7 @@
 
 ### Web Developer • SaaS Architect • Project Lead at Nexus Orbits Pakistan
 
-I build modern web applications, SaaS platforms, AI-assisted tools, geospatial systems, HRMS solutions, security utilities, and developer-focused products.  
-My work focuses on clean architecture, scalable frontend systems, practical business automation, and solving real-world problems through software.
-
-Always open to collaboration, meaningful engineering discussions, and building products that create impact.
+I build modern web applications, SaaS platforms, AI-assisted tools, geospatial systems, HRMS solutions, security utilities, and developer-focused products.My work focuses on clean architecture, scalable frontend systems, practical business automation, and solving real-world problems through software.Always open to collaboration, meaningful engineering discussions, and building products that create impact.
 
 
 

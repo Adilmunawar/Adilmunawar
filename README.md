@@ -55,76 +55,21 @@ I enjoy turning complex ideas into structured digital products with clean user e
 
 ## Featured Projects
 
-### AGIS — Advanced Geospatial Intelligence System
-
-A geospatial intelligence platform for satellite imagery analysis, parcel intelligence, field boundary detection, browser-based GIS processing, and export-ready GeoJSON workflows.
-
-**Core areas:** GIS, satellite analysis, AI boundary detection, parcel intelligence, Firebase, Google Earth Engine, browser workers.
-
 <a href="https://github.com/Adilmunawar/AGIS">
   <img src="https://img.shields.io/badge/View_Project-AGIS-0f766e?style=for-the-badge&logo=github" />
 </a>
-
-
-
-### AdiARC — AI Assisted Records Modernization System
-
-A cadastral intelligence and records modernization system focused on legacy land records, AI-assisted schema understanding, inventory scanning, synchronization workflows, operational assets, and Wirasat inheritance logic.
-
-**Core areas:** land records, legacy systems, schema reasoning, AI assistant workflows, SQL references, operational tooling, inheritance logic.
-
 <a href="https://github.com/Adilmunawar/AdiARC">
   <img src="https://img.shields.io/badge/View_Project-AdiARC-e11d48?style=for-the-badge&logo=github" />
 </a>
-
-
-
-### AdiCorp — Modular HRMS Platform
-
-A Human Resource Management System with admin dashboard, employee portal, employee management, attendance tracking, leave workflows, overtime policies, payroll logic, events, settings, and Supabase-backed HR operations.
-
-**Core areas:** HRMS, payroll, attendance, leave management, employee portal, Supabase, dashboard architecture.
-
 <a href="https://github.com/Adilmunawar/AdiCorp">
   <img src="https://img.shields.io/badge/View_Project-AdiCorp-2563eb?style=for-the-badge&logo=github" />
 </a>
-
-
-
-### AdiGaze — AI Resume Intelligence Platform
-
-An AI-powered recruitment intelligence platform for resume parsing, candidate normalization, matching workflows, external submissions, ranking, MFA support, and recruitment automation.
-
-**Core areas:** AI resume parsing, candidate matching, Supabase Edge Functions, Gemini AI, external submissions, recruitment automation.
-
 <a href="https://github.com/Adilmunawar/AdiGaze">
   <img src="https://img.shields.io/badge/View_Project-AdiGaze-4f46e5?style=for-the-badge&logo=github" />
 </a>
-
-
-
-### AdiNox — Secure OTP Authenticator
-
-A secure OTP authenticator and token management application for two-factor authentication workflows, local token persistence, Supabase authentication, responsive UI, and modular frontend state architecture.
-
-**Core areas:** OTP, TOTP, token management, authentication, local persistence, frontend state architecture.
-
 <a href="https://github.com/Adilmunawar/AdiNox">
   <img src="https://img.shields.io/badge/View_Project-AdiNox-16a34a?style=for-the-badge&logo=github" />
 </a>
-
-
-
-## Engineering Strengths
-
-- Frontend architecture with React, TypeScript, and modern dashboard systems
-- Product-focused SaaS development and modular application design
-- Supabase and Firebase-backed application workflows
-- AI-assisted document processing and recruitment automation
-- GIS and satellite imagery processing concepts
-- Secure authentication, OTP, and token management workflows
-- Schema-driven systems and domain-focused software design
-- Clean README documentation, architecture diagrams, and project presentation
 
 
 
@@ -140,35 +85,7 @@ A secure OTP authenticator and token management application for two-factor authe
   </picture>
 </a>
 
-<br/>
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adilmunawar&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adilmunawar&bg_color=ffffff&color=5bcdec&line=5bcdec&point=000000&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adilmunawar&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true" alt="Adilmunawar's Contribution Graph" />
-  </picture>
-</a>
-
 </div>
-
-
-
-## Development Philosophy
-
-I believe good software is not only about writing code. It is about understanding the problem deeply, designing the right structure, building maintainable systems, and presenting the work clearly.
-
-My approach is based on:
-
-- Clean architecture before fast shortcuts
-- Modular systems instead of tightly coupled features
-- Practical products instead of only demos
-- Strong documentation and visual explanation
-- Real-world workflows over shallow interfaces
-- Continuous improvement through building and learning
-
-
-
 ## Connect With Me
 
 <div align="center">

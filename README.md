@@ -58,8 +58,6 @@ I focus on building scalable systems with clean architecture, practical workflow
 
 
 
-## GitHub Activity
-
 <div align="center">
 
 <a href="https://github.com/Adilmunawar">

@@ -1,12 +1,5 @@
 <div align="center">
-
-# Hi, I'm Adil Munawar
-
-### Web Developer • SaaS Architect • Project Lead at Nexus Orbits Pakistan
-
-I build modern web applications, SaaS platforms, AI-assisted tools, geospatial systems, HRMS solutions, security utilities, and developer-focused products.My work focuses on clean architecture, scalable frontend systems, practical business automation, and solving real-world problems through software.Always open to collaboration, meaningful engineering discussions, and building products that create impact.
-
-
+Web Developer • SaaS Architect • Project Lead at Nexus Orbits Pakistan
 
 ## Technical Skills
 
@@ -28,24 +21,19 @@ I build modern web applications, SaaS platforms, AI-assisted tools, geospatial s
 
 </div>
 
-
-
-## About Me
-
-I am a web developer and project lead focused on building practical, scalable, and product-oriented software systems. My work spans across full-stack development, SaaS architecture, AI-assisted workflows, HR platforms, geospatial intelligence systems, authentication tools, and recruitment automation.
-
-I enjoy turning complex ideas into structured digital products with clean user experiences, reusable components, maintainable code organization, and strong technical foundations. My projects are usually built around real operational problems such as land record modernization, candidate screening, HR management, field boundary detection, OTP authentication, and business process automation.
+Web developer, project lead, and aspiring ML researcher focused on geospatial intelligence and AI assisted systems.
+I build modern web applications, SaaS platforms, GIS tools, automation systems, and AI-powered products using React, Next.js, TypeScript, Node.js, Python, Firebase, Supabase, FastAPI, Docker, GitHub, Vercel, and cloud platforms. My work spans geospatial intelligence, satellite imagery workflows, HR management systems, recruitment automation, land record modernization, authentication tools, and personal assistant automation. I’m especially interested in combining software engineering, machine learning, GIS, and cloud architecture to solve real operational problems.
+I focus on building scalable systems with clean architecture, practical workflows, reusable components, and professional user experiences.
 
 
 
 ## Current Focus
 
-- Building production-style SaaS applications with modern frontend architecture
+- Building production ready SaaS applications with modern frontend architecture
 - Designing modular dashboards and business management systems
-- Working with AI-assisted automation and document intelligence
+- Working with AI assisted automation and document intelligence
 - Developing GIS, satellite analysis, and geospatial data workflows
 - Creating secure authentication and token management utilities
-- Improving open-source project documentation and developer presentation
 - Leading technical execution at Nexus Orbits Pakistan
 
 
